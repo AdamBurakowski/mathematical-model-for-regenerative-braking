@@ -43,7 +43,7 @@ c = 0.2
 # Rolling resistance coefficient
 C_rr = 0.015  # Typical value for cars on asphalt
 
-# linespace parameters
+# linspace parameters
 t_max = 10
 t_points = 1000
 
